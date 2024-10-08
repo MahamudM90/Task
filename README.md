@@ -12,4 +12,5 @@ $ cd course-task
 $ npm install
 $ npm run dev
 
- ###    [Live Site](https://course-task.netlify.app)
+ ```
+###    [Live Site](https://course-task.netlify.app)
